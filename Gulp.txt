@@ -1,0 +1,16 @@
+npm init
+npm i gulp --save-dev
+npm i gulp-sass --save-dev
+npm i gulp-util --save-dev
+npm i browser-sync --save-dev
+npm i --save-dev gulp-concat gulp-uglify
+npm i gulp-clean-css --save-dev
+npm i gulp-rename --save-dev
+npm i gulp-autoprefixer --save-dev
+npm i gulp-notify --save-dev
+npm install gulp-group-css-media-queries --save-dev
+npm i smart-grid --save-dev
+
+
+
+npm i gulp -g
